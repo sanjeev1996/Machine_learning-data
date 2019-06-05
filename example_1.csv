@@ -1,6 +1,6 @@
 Country,Age,Gender,Occupation,Employment Status,Employement Type,Salary,Purchased
 Poland,34,Male,Salaried,Yes,Permanent,72000,No
-Spain,42,Female,Business,Yes,Temporary,48000,Yes
+Spain,42,Female,Business,Yes,Temporary,48000,No
 Germany,29,Male,Business,No,Temporary,54000,No
 Spain,38,Male,Business,No,Permanent,61000,No
 Germany,32,Male,Salaried,,Permanent,,Yes
